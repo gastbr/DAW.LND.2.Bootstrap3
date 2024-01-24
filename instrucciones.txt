@@ -1,0 +1,20 @@
+A7.1 Modelo Responsivo con Bootstrap implementando Imágenes y Tablas.
+
+Esta actividad que se solicita tendrá 2 entregas:
+La del trabajo que se realizará el día de clase con un valor del 20% del total y la que se podrá modificar en casa con el otro valor del 80%. La actividad tiene varios días a posteriori para realizar dicha segunda entrega.
+Las entregas tienen que estar comprimidas y separadas como: "Entrega 1 Clase" y "Entrega 2 Final"
+Este es el enunciado del Ejercicio:
+
+Crear una página en HTML sin enlaces con modelo semántico en donde representas textos, colores, imágenes y tablas de Bootstrap.
+
+Apartado 1: TABLAS - Deben estar repartidas en los diferentes artículos. Se pueden combinar 2 CLASES dentro de una misma tabla. Se comparte este apartado: https://www.w3schools.com/bootstrap5/bootstrap_tables.php (Todos tienen que estar reflejados.).
+Apartado 2: IMÁGENES – (Es obligatorio respetar los derechos de la ley de propiedad intelectual) Deben de estar repartidas en los diferentes artículos y pueden estar en los mismos artículos que las tablas. Como mucho se pueden colocar 2 imágenes en un mismo artículo. En este caso solo se podrá utilizar independientemente las clases tal y como se muestra en el apartado de w3school. https://www.w3schools.com/bootstrap5/bootstrap_images.php (Todos tienen que estar reflejados.). 
+Nota: Hay que tomar en cuenta que en los apartados mencionados de w3school se ha colocado la palabra (Todos tienen que estar reflejados.).
+El reparto del peso de la actividad será:
+Apartado 1 – Tablas: 3.5 ptos.
+Todas las etiquetas-clases bien aplicadas 3.5 ptos / Más de 7 etiquetas-clases, pero no todas, además bien aplicadas 2.75 ptos / Cualquiera de las dos anteriores, pero con fallos de aplicación 1.75 ptos / Entre 3 y 7 etiquetas-clases bien aplicadas 0.75 ptos. / Menos de 3 etiquetas-clases o la anterior con fallos 0.25 ptos.
+Apartado 2 – Imágenes:  3.5 ptos.
+Todas las etiquetas-clases bien aplicadas 3.5 ptos / Más de 7 etiquetas-clases, pero no todas, además bien aplicadas 2.75 ptos / Cualquiera de las dos anteriores, pero con fallos de aplicación 1.75 ptos / Entre 3 y 7 etiquetas-clases bien aplicadas 0.75 ptos. / Menos de 3 etiquetas-clases o la anterior con fallos 0.25 ptos.
+Modelo Semántico: 3 ptos. (Header, Main, Article, Section, Aside, Footer).
+ El estilo que se ha implementado (Se tomará en cuenta la cantidad de elementos y la forma en la que se han aplicado):
+Muy brillante 3 ptos. / Bueno 2 ptos. / Regular 1 pto. / Bajo 0.5 ptos.

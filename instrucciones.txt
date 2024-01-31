@@ -9,7 +9,7 @@ Crear una página en HTML sin enlaces con modelo semántico en donde representas
 
 Apartado 1: TABLAS - Deben estar repartidas en los diferentes artículos. Se pueden combinar 2 CLASES dentro de una misma tabla. Se comparte este apartado: https://www.w3schools.com/bootstrap5/bootstrap_tables.php (Todos tienen que estar reflejados.).
 
-Apartado 2: IMÁGENES – (Es obligatorio respetar los derechos de la ley de propiedad intelectual: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Falta_imagen.jpg/800px-Falta_imagen.jpg?20200605142319) Deben de estar repartidas en los diferentes artículos y pueden estar en los mismos artículos que las tablas. Como mucho se pueden colocar 2 imágenes en un mismo artículo. En este caso solo se podrá utilizar independientemente las clases tal y como se muestra en el apartado de w3school. https://www.w3schools.com/bootstrap5/bootstrap_images.php (Todos tienen que estar reflejados.). 
+Apartado 2: IMÁGENES – (Es obligatorio respetar los derechos de la ley de propiedad intelectual: https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L25zODIzMC1pbWFnZS5qcGc.jpg) Deben de estar repartidas en los diferentes artículos y pueden estar en los mismos artículos que las tablas. Como mucho se pueden colocar 2 imágenes en un mismo artículo. En este caso solo se podrá utilizar independientemente las clases tal y como se muestra en el apartado de w3school. https://www.w3schools.com/bootstrap5/bootstrap_images.php (Todos tienen que estar reflejados.). 
 
 Nota: Hay que tomar en cuenta que en los apartados mencionados de w3school se ha colocado la palabra (Todos tienen que estar reflejados.).
 
